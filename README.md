@@ -4,7 +4,7 @@ Crypto I Project by Daryian Rhysing, Alex Giris, and James Ziron
 
 This repository is a portion of the project by Alex Giris only, although one of the other two located the JPaillier library.
 
-How to build:
+# How to build
 Before running, please change the voters.txt and the candidates.txt to the appropriate
 lists of voters and candidates, one per line, do not include any additional line breaks at the
 beginning or the end. Do not separate lines with commas or any other punctuation unless such marks
@@ -16,7 +16,7 @@ guide you through the voting process in a completely unbiased manner.
 At the start, the Bulletin Board is initialized with a vote of zero for all voter/candidate combinations.
 This is to protect the confidentiality of voters who wish to abstain from the vote.
 
-About:
+# About
 This project was written as a project for the Cryptography I class at RPI. Since submitting it, I fixed
 a problem with the Zero Knowledge Proof, changed some of the error messages, and removed a few unnecessary 
 print statements.
