@@ -1,6 +1,7 @@
 # Paillier-voting
 Secure voting system using Paillier
 Crypto I Project by Daryian Rhysing, Alex Giris, and James Ziron
+
 Code portion of the project by Alex Giris only, although one of the other two located the JPaillier library.
 
 How to build:
